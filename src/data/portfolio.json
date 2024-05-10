@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "date": "September 27, 2024",
+        "name": "Building Name 1",
+        "address": "Building Address 1",
+        "image": "/images/p1.jpg",
+        "description": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "1Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 2,
+        "date": "September 27, 2024",
+        "name": "Building Name 2",
+        "address": "Building Address 2",
+        "image": "/images/p2.jpg",
+        "description": "2Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "2Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 3,
+        "date": "September 27, 2024",
+        "name": "Building Name 3",
+        "address": "Building Address 3",
+        "image": "/images/p3.jpg",
+        "description": "3Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "3Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 4,
+        "date": "September 27, 2024",
+        "name": "Building Name 4",
+        "address": "Building Address 4",
+        "image": "/images/p4.jpg",
+        "description": "4Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "4Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 5,
+        "date": "September 27, 2024",
+        "name": "Building Name 5",
+        "address": "Building Address 5",
+        "image": "/images/p5.jpg",
+        "description": "5Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "5Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 6,
+        "date": "September 27, 2024",
+        "name": "Building Name 6",
+        "address": "Building Address 6",
+        "image": "/images/p6.jpg",
+        "description": "6Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "6Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 7,
+        "date": "September 27, 2024",
+        "name": "Building Name 7",
+        "address": "Building Address71",
+        "image": "/images/p7.jpg",
+        "description": "7Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "7Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 8,
+        "date": "September 27, 2024",
+        "name": "Building Name 8",
+        "address": "Building Address 8",
+        "image": "/images/p8.jpg",
+        "description": "8Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "8Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 9,
+        "date": "September 27, 2024",
+        "name": "Building Name 9",
+        "address": "Building Address 9",
+        "image": "/images/p9.jpg",
+        "description": "9Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "9Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 10,
+        "date": "September 27, 2024",
+        "name": "Building Name 10",
+        "address": "Building Address 10",
+        "image": "/images/p10.jpg",
+        "description": "10Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "10Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 11,
+        "date": "September 27, 2024",
+        "name": "Building Name 11",
+        "address": " Building Address 11 ",
+        "image": "/images/p11.jpg",
+        "description": "11Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "11Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    },
+    {
+        "id": 12,
+        "date": "September 27, 2024",
+        "name": "Building Name 12",
+        "address": "Building Address 12",
+        "image": "/images/p12.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "details": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "amenities": [
+            "208 stylish rooms",
+            "Signature Bar Moxy",
+            "Lobby Lounge",
+            "2,500 square feet of meeting space",
+            "Rooftop Lounge & Patio",
+            "24/7 wellness fitness center",
+            "Part of Marriott Select-Service Hotels"
+        ]
+    }
+]

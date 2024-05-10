@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p1.jpg",
+        "image1": "/images/p2.jpg",
+        "image2": "/images/p3.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 2,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p2.jpg",
+        "image1": "/images/p3.jpg",
+        "image2": "/images/p4.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 3,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p3.jpg",
+        "image1": "/images/p2.jpg",
+        "image2": "/images/p1.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 4,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p4.jpg",
+        "image1": "/images/p6.jpg",
+        "image2": "/images/p7.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 5,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p5.jpg",
+        "image1": "/images/p8.jpg",
+        "image2": "/images/91.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 6,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p6.jpg",
+        "image1": "/images/p12.jpg",
+        "image2": "/images/p11.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 7,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p7.jpg",
+        "image1": "/images/p2.jpg",
+        "image2": "/images/p1.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 8,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p8.jpg",
+        "image1": "/images/p3.jpg",
+        "image2": "/images/p4.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 9,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p9.jpg",
+        "image1": "/images/p2.jpg",
+        "image2": "/images/p1.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 10,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p10.jpg",
+        "image1": "/images/p7.jpg",
+        "image2": "/images/p6.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 11,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p11.jpg",
+        "image1": "/images/p4.jpg",
+        "image2": "/images/p3.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    },
+    {
+        "id": 12,
+        "name": "Building Details",
+        "address": "Building descripation",
+        "image": "/images/p12.jpg",
+        "image1": "/images/p12.jpg",
+        "image2": "/images/p1.jpg",
+        "description": "12Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis cupiditate voluptatum delectus odio iure natus minus optio, eius et distinctio. Lorem ipsum dolor sit . Lorem ipsum dolor sit amet consectetur adipisicing enatus minus optio, eius et distinctio. Lorem ipsum sit .",
+        "date": "September 26, 2023"
+    }
+]

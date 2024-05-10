@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Building Name 1",
+        "address": "Building Address 1",
+        "image": "images/p1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Building Name 2",
+        "address": "Building Address 2",
+        "image": "images/p2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Building Name 3",
+        "address": "Building Address 3",
+        "image": "images/p3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Building Name 4",
+        "address": "Building Address 4",
+        "image": "images/p4.jpg"
+    }
+]

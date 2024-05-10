@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "/images/t1.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 2,
+        "image": "/images/t2.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 3,
+        "image": "/images/t3.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 4,
+        "image": "/images/t4.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 5,
+        "image": "/images/t1.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 6,
+        "image": "/images/t2.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 7,
+        "image": "/images/t3.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 8,
+        "image": "/images/t4.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 9,
+        "image": "/images/t1.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 10,
+        "image": "/images/t2.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 11,
+        "image": "/images/t3.jpg",
+        "name": "team name",
+        "position": "team postion"
+    },
+    {
+        "id": 12,
+        "image": "/images/t4.jpg",
+        "name": "team name",
+        "position": "team postion"
+    }
+]
